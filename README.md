@@ -7,7 +7,7 @@
 
 
 ### Description
-This project analyzes bike-sharing data from three major cities in the US. 
+This project analyzes bike-sharing data from three major cities in the US: Chicago, New York City and Washington. 
 
 ### Files used
 
