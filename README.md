@@ -10,11 +10,12 @@
 This project analyzes bike-sharing data from three major cities in the US. 
 
 ### Files used
+
 bikeshare.py
 washington.xlsx
 new_york_city.xlsx
 chicago.xlsx
 
 ### Credits
-Project is part of Udacity Data Science Nanodegree program https://www.Udacity.com.
+This project is part of Udacity Data Science Nanodegree program https://www.Udacity.com.
 
