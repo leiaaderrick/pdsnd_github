@@ -19,7 +19,7 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     valid_cities=['chicago', 'new york', 'washington']
     while True :
-        city=input('Would you like to see data from Chicago, New York or Washington?').strip().lower()
+        city=input('Would you like to view data from Chicago, New York or Washington?').strip().lower()
         print(city)
         if city in valid_cities:
             break 
