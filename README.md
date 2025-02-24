@@ -3,7 +3,7 @@
 ### Date created
 24/02/2025
 
-### Git Bikeshare Data Analysis
+### Git Bikeshare Data Analytics
 
 
 ### Description
